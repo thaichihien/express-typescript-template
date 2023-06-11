@@ -24,5 +24,5 @@ npm start
 
 ## Features:
 - [X] Simple Express + TypeScript for Backend only
-- [ ] Public folder to send html, css,...
+- [X] Public folder to send html, css,... (check branch public-folder)
 - [ ] Set up database script
